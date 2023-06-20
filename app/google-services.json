@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196852283972",
+    "project_id": "review-of-movies",
+    "storage_bucket": "review-of-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196852283972:android:8eeb13193d6aabb1379a11",
+        "android_client_info": {
+          "package_name": "com.example.review_of_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196852283972-dd4n5st4j1vof4s5eo0ajhj1bvs107g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJ1guLmp9vJv6VEQp9ZTlWDzhM2PAYEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196852283972-dd4n5st4j1vof4s5eo0ajhj1bvs107g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
